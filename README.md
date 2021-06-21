@@ -1,4 +1,4 @@
-# Mobilités et approches comparées entre sciences humaines et sciences dures : la *Revue d’histoire des Sciences*/*les Annales. Histoire, Sciences sociales*
+# Mobilités et approches comparées entre sciences humaines et sciences dures : la *Revue d’histoire des Sciences* / *les Annales. Histoire, Sciences sociales*
 
 ## Projet de visualisation de données - Analyse comparative de la Revue d'histoire des sciences et des Annales
 
