@@ -1,0 +1,49 @@
+***** Requête pour les articles de la RHS avec sujets référencés *****
+
+PREFIX sioc: <http://rdfs.org/sioc/ns#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX ore: <http://www.openarchives.org/ore/terms/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+
+SELECT DISTINCT ?id (SAMPLE(?author) AS ?author) ?title ?date ?type ?topic_label ?subject ?coverage ?is_aggregated_by 
+
+WHERE {
+?documents ore:isAggregatedBy <http://isidore.science/collection/10670/2.eqird7>.
+?documents dcterms:identifier ?id.
+?documents dcterms:creator ?name.
+?name foaf:name ?author.
+?documents dcterms:title ?title.
+?documents dc:date ?date.
+?documents dc:type ?type.
+?documents sioc:topic ?topic.
+OPTIONAL {?topic skos:prefLabel ?topic_label.}
+FILTER(lang(?topic_label)="fr")
+OPTIONAL {?documents dc:subject ?subject}
+?documents dc:coverage ?coverage.
+?is_aggregated_by ore:aggregates ?documents.
+}
+
+***** Requête pour les articles de la RHS sans sujets référencés *****
+
+PREFIX sioc: <http://rdfs.org/sioc/ns#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX ore: <http://www.openarchives.org/ore/terms/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+
+SELECT DISTINCT ?id (SAMPLE(?author) AS ?author) ?title ?date ?type ?subject ?is_aggregated_by ?coverage
+
+WHERE {
+?documents ore:isAggregatedBy <http://isidore.science/collection/10670/2.eqird7>.
+?documents dcterms:identifier ?id.
+?documents dcterms:creator ?name.
+?name foaf:name ?author.
+?documents dcterms:title ?title.
+?documents dc:date ?date.
+?documents dc:type ?type.
+FILTER NOT EXISTS {?documents sioc:topic ?topic.}
+OPTIONAL {?documents dc:subject ?subject}
+?is_aggregated_by ore:aggregates ?documents.
+?documents dc:coverage ?coverage.
+}

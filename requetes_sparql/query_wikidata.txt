@@ -1,0 +1,154 @@
+***** Requête complète *****
+
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX p: <http://www.wikidata.org/prop/>
+PREFIX ps: <http://www.wikidata.org/prop/statement/>
+PREFIX pq: <http://www.wikidata.org/prop/qualifier/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX bd: <http://www.bigdata.com/rdf#>
+
+SELECT DISTINCT ?personne_id ?personne_idLabel ?persee_author_id ?idref ?year_of_birth ?year_of_death ?sex_or_genderLabel ?country_of_citizenshipLabel ?occupationLabel ?educated_atLabel ?academic_degreeLabel 
+
+WHERE {
+  ?personne_id wdt:P31 wd:Q5.
+  ?personne_id wdt:P2732 ?persee_author_id.
+  OPTIONAL {?personne_id wdt:P106 ?occupation.}
+  OPTIONAL {?personne_id wdt:P69 ?educated_at.}
+  OPTIONAL {?personne_id wdt:P512 ?academic_degree.}
+  ?personne_id wdt:P569 ?date_of_birth.
+  FILTER(?date_of_birth >= "1850-01-01T00:00:00Z"^^xsd:dateTime)
+  BIND (year(?date_of_birth) AS ?year_of_birth)
+  OPTIONAL {?personne_id wdt:P570 ?date_of_death.}
+  BIND (year(?date_of_death) AS ?year_of_death)
+  OPTIONAL {?personne_id wdt:P21 ?sex_or_gender.}
+  OPTIONAL {?personne_id wdt:P27 ?country_of_citizenship.}
+  OPTIONAL {?personne_id wdt:P269 ?idref.}
+
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "fr"
+                    }
+    }
+
+***** Requête décomposée (1/5) *****
+
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX p: <http://www.wikidata.org/prop/>
+PREFIX ps: <http://www.wikidata.org/prop/statement/>
+PREFIX pq: <http://www.wikidata.org/prop/qualifier/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX bd: <http://www.bigdata.com/rdf#>
+
+SELECT DISTINCT ?personne_id ?personne_idLabel ?persee_author_id 
+
+WHERE {
+  ?personne_id wdt:P31 wd:Q5.
+  ?personne_id wdt:P2732 ?persee_author_id.
+  OPTIONAL {?personne_id wdt:P106 ?occupation.}
+
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "fr"
+                    }
+    }
+
+***** Requête décomposée (2/5) *****
+
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX p: <http://www.wikidata.org/prop/>
+PREFIX ps: <http://www.wikidata.org/prop/statement/>
+PREFIX pq: <http://www.wikidata.org/prop/qualifier/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX bd: <http://www.bigdata.com/rdf#>
+
+SELECT DISTINCT ?personne_id ?personne_idLabel ?persee_author_id ?sex_or_gender
+
+WHERE {
+  ?personne_id wdt:P31 wd:Q5.
+  ?personne_id wdt:P2732 ?persee_author_id.
+  OPTIONAL {?personne_id wdt:P21 ?sex_or_gender.}
+
+
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "fr"
+                    }
+    }    
+
+***** décomposée (3/5) *****
+
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX p: <http://www.wikidata.org/prop/>
+PREFIX ps: <http://www.wikidata.org/prop/statement/>
+PREFIX pq: <http://www.wikidata.org/prop/qualifier/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX bd: <http://www.bigdata.com/rdf#>
+
+SELECT DISTINCT ?personne_id ?personne_idLabel ?persee_author_id ?country_of_citizenshipLabel ?educated_atLabel ?academic_degreeLabel
+
+WHERE {
+  ?personne_id wdt:P31 wd:Q5.
+  ?personne_id wdt:P2732 ?persee_author_id.
+  OPTIONAL {?personne_id wdt:P69 ?educated_at.}
+  OPTIONAL {?personne_id wdt:P512 ?academic_degree.}
+  OPTIONAL {?personne_id wdt:P27 ?country_of_citizenship.}
+
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "fr"
+                    }
+    }
+    
+***** Requête décomposée (4/5) *****
+
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX p: <http://www.wikidata.org/prop/>
+PREFIX ps: <http://www.wikidata.org/prop/statement/>
+PREFIX pq: <http://www.wikidata.org/prop/qualifier/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX bd: <http://www.bigdata.com/rdf#>
+
+SELECT DISTINCT ?personne_id ?personne_idLabel ?persee_author_id year_of_birth ?year_of_death 
+
+WHERE {
+  ?personne_id wdt:P31 wd:Q5.
+  ?personne_id wdt:P2732 ?persee_author_id.
+  ?personne_id wdt:P569 ?date_of_birth.
+  FILTER(?date_of_birth >= "1850-01-01T00:00:00Z"^^xsd:dateTime)
+  BIND (year(?date_of_birth) AS ?year_of_birth)
+  OPTIONAL {?personne_id wdt:P570 ?date_of_death.}
+  BIND (year(?date_of_death) AS ?year_of_death)
+
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "fr"
+                    }
+    }
+    
+***** Requête décomposée (5/5) *****
+
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+PREFIX p: <http://www.wikidata.org/prop/>
+PREFIX ps: <http://www.wikidata.org/prop/statement/>
+PREFIX pq: <http://www.wikidata.org/prop/qualifier/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX bd: <http://www.bigdata.com/rdf#>
+
+SELECT DISTINCT ?personne_id ?personne_idLabel ?persee_author_id ?idref
+
+WHERE {
+  ?personne_id wdt:P31 wd:Q5.
+  ?personne_id wdt:P2732 ?persee_author_id.
+  OPTIONAL {?personne_id wdt:P269 ?idref.}
+
+  SERVICE wikibase:label {
+    bd:serviceParam wikibase:language "fr"
+                    }
+    }

@@ -1,0 +1,597 @@
+personne_id,auteur_persee_id,idref,auteurlabel,occupationLabel,year_of_birth,year_of_death,sex_or_genderLabel
+http://www.wikidata.org/entity/Q102326192,57407,074654527,Bernard Pourprix,physicien,no value,????,masculin
+http://www.wikidata.org/entity/Q1064544,10492,026891654,Charles C. Gillispie,historien,1918,2015,masculin
+http://www.wikidata.org/entity/Q1064544,10492,026891654,Charles C. Gillispie,professeur d'université,1918,2015,masculin
+http://www.wikidata.org/entity/Q11115392,54642,027129918,Jan Sebestik,philosophe,1931,????,masculin
+http://www.wikidata.org/entity/Q111447,54974,072234075,André Guinier,cristallographe,1911,2000,masculin
+http://www.wikidata.org/entity/Q111447,54974,072234075,André Guinier,physicien,1911,2000,masculin
+http://www.wikidata.org/entity/Q111447,54974,072234075,André Guinier,professeur d'université,1911,2000,masculin
+http://www.wikidata.org/entity/Q111447,54974,072234075,André Guinier,scientifique,1911,2000,masculin
+http://www.wikidata.org/entity/Q1163864,281718,031842062,Danielle Gourevitch,directeurs des études,1941,????,féminin
+http://www.wikidata.org/entity/Q1163864,281718,031842062,Danielle Gourevitch,historien de la médecine,1941,????,féminin
+http://www.wikidata.org/entity/Q1163864,281718,031842062,Danielle Gourevitch,philologue classique,1941,????,féminin
+http://www.wikidata.org/entity/Q11730371,82476,030272394,Józef Hurwic,chimiste,1911,2016,masculin
+http://www.wikidata.org/entity/Q11730371,82476,030272394,Józef Hurwic,historien des sciences,1911,2016,masculin
+http://www.wikidata.org/entity/Q11730371,82476,030272394,Józef Hurwic,physico-chimiste,1911,2016,masculin
+http://www.wikidata.org/entity/Q11736467,82472,028567048,Karolina Targosz,historien,1938,????,féminin
+http://www.wikidata.org/entity/Q1252931,82488,030342465,I. Grattan-Guinness,historien,1941,2014,masculin
+http://www.wikidata.org/entity/Q1252931,82488,030342465,I. Grattan-Guinness,historien des mathématiques,1941,2014,masculin
+http://www.wikidata.org/entity/Q1252931,82488,030342465,I. Grattan-Guinness,mathématicien,1941,2014,masculin
+http://www.wikidata.org/entity/Q1252931,82488,030342465,I. Grattan-Guinness,philosophe,1941,2014,masculin
+http://www.wikidata.org/entity/Q1252931,82488,030342465,I. Grattan-Guinness,professeur d'université,1941,2014,masculin
+http://www.wikidata.org/entity/Q1273727,55239,029464609,Helge Kragh,chimiste,1944,????,masculin
+http://www.wikidata.org/entity/Q1273727,55239,029464609,Helge Kragh,historien,1944,????,masculin
+http://www.wikidata.org/entity/Q1273727,55239,029464609,Helge Kragh,naturaliste,1944,????,masculin
+http://www.wikidata.org/entity/Q1273727,55239,029464609,Helge Kragh,physicien,1944,????,masculin
+http://www.wikidata.org/entity/Q13101424,76605,096687479,A. Gloden,mathématicien,1901,1966,masculin
+http://www.wikidata.org/entity/Q1316061,76401,033008590,George Sarton,chimiste,1884,1956,masculin
+http://www.wikidata.org/entity/Q1316061,76401,033008590,George Sarton,historien,1884,1956,masculin
+http://www.wikidata.org/entity/Q1316061,76401,033008590,George Sarton,professeur d'université,1884,1956,masculin
+http://www.wikidata.org/entity/Q1338383,364389,027081001,Emmanuel Poulle,archiviste,1928,2011,masculin
+http://www.wikidata.org/entity/Q1338383,364389,027081001,Emmanuel Poulle,historien,1928,2011,masculin
+http://www.wikidata.org/entity/Q1338383,364389,027081001,Emmanuel Poulle,médiéviste,1928,2011,masculin
+http://www.wikidata.org/entity/Q1347853,249458,026889099,Jacques Gernet,professeur d'université,1921,2018,masculin
+http://www.wikidata.org/entity/Q1347853,249458,026889099,Jacques Gernet,sinologue,1921,2018,masculin
+http://www.wikidata.org/entity/Q1384603,3819,026747804,Jacques Bouveresse,philosophe,1940,2021,masculin
+http://www.wikidata.org/entity/Q1384603,3819,026747804,Jacques Bouveresse,professeur,1940,2021,masculin
+http://www.wikidata.org/entity/Q1384603,3819,026747804,Jacques Bouveresse,professeur d'université,1940,2021,masculin
+http://www.wikidata.org/entity/Q1386199,80051,031191983,L. Lusternik,mathématicien,1899,1981,masculin
+http://www.wikidata.org/entity/Q1386199,80051,031191983,L. Lusternik,topologue,1899,1981,masculin
+http://www.wikidata.org/entity/Q1388382,58872,027155641,René Taton,historien des sciences,1915,2004,masculin
+http://www.wikidata.org/entity/Q1388382,58872,027155641,René Taton,mathématicien,1915,2004,masculin
+http://www.wikidata.org/entity/Q1489128,44493,027014371,Jean-Claude Martzloff,historien des mathématiques,1943,2018,masculin
+http://www.wikidata.org/entity/Q1489128,44493,027014371,Jean-Claude Martzloff,mathématicien,1943,2018,masculin
+http://www.wikidata.org/entity/Q1489128,44493,027014371,Jean-Claude Martzloff,sinologue,1943,2018,masculin
+http://www.wikidata.org/entity/Q15446721,55229,032834543,Frédéric L. Holmes,historien,1932,2003,masculin
+http://www.wikidata.org/entity/Q15446721,55229,032834543,Frédéric L. Holmes,historien des sciences,1932,2003,masculin
+http://www.wikidata.org/entity/Q15446721,55229,032834543,Frédéric L. Holmes,professeur d'université,1932,2003,masculin
+http://www.wikidata.org/entity/Q15454933,54627,056611277,Pierre Cassou Nogues,historien des mathématiques,1971,????,masculin
+http://www.wikidata.org/entity/Q15454933,54627,056611277,Pierre Cassou Nogues,philosophe,1971,????,masculin
+http://www.wikidata.org/entity/Q15454933,54627,056611277,Pierre Cassou Nogues,professeur,1971,????,masculin
+http://www.wikidata.org/entity/Q15454933,54627,056611277,Pierre Cassou Nogues,réalisateur,1971,????,masculin
+http://www.wikidata.org/entity/Q15454933,54627,056611277,Pierre Cassou Nogues,écrivain,1971,????,masculin
+http://www.wikidata.org/entity/Q1557718,78280,027072525,Jean-Paul Pier,historien des mathématiques,1933,2016,masculin
+http://www.wikidata.org/entity/Q1557718,78280,027072525,Jean-Paul Pier,mathématicien,1933,2016,masculin
+http://www.wikidata.org/entity/Q157155,174588,027094170,Ernest Renan,archéologue,no value,????,masculin
+http://www.wikidata.org/entity/Q157155,174588,027094170,Ernest Renan,critique littéraire,no value,????,masculin
+http://www.wikidata.org/entity/Q157155,174588,027094170,Ernest Renan,historien,no value,????,masculin
+http://www.wikidata.org/entity/Q157155,174588,027094170,Ernest Renan,orientaliste,no value,????,masculin
+http://www.wikidata.org/entity/Q157155,174588,027094170,Ernest Renan,philologue,no value,????,masculin
+http://www.wikidata.org/entity/Q157155,174588,027094170,Ernest Renan,philosophe,no value,????,masculin
+http://www.wikidata.org/entity/Q157155,174588,027094170,Ernest Renan,professeur,no value,????,masculin
+http://www.wikidata.org/entity/Q157155,174588,027094170,Ernest Renan,théologien,no value,????,masculin
+http://www.wikidata.org/entity/Q157155,174588,027094170,Ernest Renan,écrivain,no value,????,masculin
+http://www.wikidata.org/entity/Q15970681,76750,074333577,François Grégoire,auteur de roman policier,1914,1973,masculin
+http://www.wikidata.org/entity/Q15970923,76393,027105199,Bernard Rochot,historien,1900,1971,masculin
+http://www.wikidata.org/entity/Q15971863,10598,026809095,Amy Dahan Dalmedico,directeur de recherche au CNRS,2000,????,féminin
+http://www.wikidata.org/entity/Q15971863,10598,026809095,Amy Dahan Dalmedico,historien des sciences,2000,????,féminin
+http://www.wikidata.org/entity/Q15971863,10598,026809095,Amy Dahan Dalmedico,mathématicien,2000,????,féminin
+http://www.wikidata.org/entity/Q16266792,57409,08201051X,Tony Levy,historien des mathématiques,1943,????,masculin
+http://www.wikidata.org/entity/Q16267493,201361,132440148,Jean Gayon,philosophe,1949,2018,masculin
+http://www.wikidata.org/entity/Q164425,76704,026911817,Jacques Hadamard,mathématicien,1865,1963,masculin
+http://www.wikidata.org/entity/Q164425,76704,026911817,Jacques Hadamard,professeur,1865,1963,masculin
+http://www.wikidata.org/entity/Q16638325,11250,026895765,Gabriel Gohau,géologue,1934,????,masculin
+http://www.wikidata.org/entity/Q16661306,262525,026842556,Louis Dulieu,historien,1917,2003,masculin
+http://www.wikidata.org/entity/Q16661306,262525,026842556,Louis Dulieu,médecin,1917,2003,masculin
+http://www.wikidata.org/entity/Q1678079,386810,027083810,Jacques Proust,historien de la littérature,1926,2005,masculin
+http://www.wikidata.org/entity/Q1678079,386810,027083810,Jacques Proust,professeur d'université,1926,2005,masculin
+http://www.wikidata.org/entity/Q1678079,386810,027083810,Jacques Proust,romaniste,1926,2005,masculin
+http://www.wikidata.org/entity/Q1685587,57331,026931834,Jean Itard,historien des mathématiques,1902,1979,masculin
+http://www.wikidata.org/entity/Q1685587,57331,026931834,Jean Itard,mathématicien,1902,1979,masculin
+http://www.wikidata.org/entity/Q1700413,51368,029114942,John L. Heilbron,historien,1934,????,masculin
+http://www.wikidata.org/entity/Q1700413,51368,029114942,John L. Heilbron,professeur d'université,1934,????,masculin
+http://www.wikidata.org/entity/Q1729607,253735,031314341,Karine Chemla,historien des mathématiques,1957,????,féminin
+http://www.wikidata.org/entity/Q1729607,253735,031314341,Karine Chemla,mathématicien,1957,????,féminin
+http://www.wikidata.org/entity/Q17304952,255994,028112245,Pierre Huard,anthropologue,1901,1983,masculin
+http://www.wikidata.org/entity/Q17304952,255994,028112245,Pierre Huard,médecin,1901,1983,masculin
+http://www.wikidata.org/entity/Q17350633,32583,026909308,Jacques Guillerme,historien de l'art,1927,1996,masculin
+http://www.wikidata.org/entity/Q17350633,32583,026909308,Jacques Guillerme,historien des technologies,1927,1996,masculin
+http://www.wikidata.org/entity/Q177709,247412,028822390,Hubert Curien,cristallographe,1924,2005,masculin
+http://www.wikidata.org/entity/Q177709,247412,028822390,Hubert Curien,physicien,1924,2005,masculin
+http://www.wikidata.org/entity/Q1804232,76314,032821972,Pierre Humbert,historien des sciences,1891,1953,masculin
+http://www.wikidata.org/entity/Q1804232,76314,032821972,Pierre Humbert,mathématicien,1891,1953,masculin
+http://www.wikidata.org/entity/Q18115561,246829,029441331,Henry Michel,no value,1857,1904,masculin
+http://www.wikidata.org/entity/Q18221610,11242,033521557,Antonio Clericuzio,Q53554997,1958,????,masculin
+http://www.wikidata.org/entity/Q18221610,11242,033521557,Antonio Clericuzio,professeur d'université,1958,????,masculin
+http://www.wikidata.org/entity/Q18222367,212198,05652207X,Didier Kahn,Q53554997,2000,????,masculin
+http://www.wikidata.org/entity/Q18397569,76842,151230404,A. Natucci,mathématicien,1883,1975,masculin
+http://www.wikidata.org/entity/Q184735,79762,028434307,Bernard Bolzano,enseignant,no value,????,masculin
+http://www.wikidata.org/entity/Q184735,79762,028434307,Bernard Bolzano,historien,no value,????,masculin
+http://www.wikidata.org/entity/Q184735,79762,028434307,Bernard Bolzano,logicien,no value,????,masculin
+http://www.wikidata.org/entity/Q184735,79762,028434307,Bernard Bolzano,mathématicien,no value,????,masculin
+http://www.wikidata.org/entity/Q184735,79762,028434307,Bernard Bolzano,philosophe,no value,????,masculin
+http://www.wikidata.org/entity/Q184735,79762,028434307,Bernard Bolzano,philosophe de l'esthétique,no value,????,masculin
+http://www.wikidata.org/entity/Q184735,79762,028434307,Bernard Bolzano,philosophe des sciences,no value,????,masculin
+http://www.wikidata.org/entity/Q184735,79762,028434307,Bernard Bolzano,professeur,no value,????,masculin
+http://www.wikidata.org/entity/Q184735,79762,028434307,Bernard Bolzano,prêtre catholique,no value,????,masculin
+http://www.wikidata.org/entity/Q184735,79762,028434307,Bernard Bolzano,théologien,no value,????,masculin
+http://www.wikidata.org/entity/Q184735,79762,028434307,Bernard Bolzano,épistémologue,no value,????,masculin
+http://www.wikidata.org/entity/Q18547827,76252,101270216,Pierre Sergescu,historien des sciences,1893,1954,masculin
+http://www.wikidata.org/entity/Q18547827,76252,101270216,Pierre Sergescu,mathématicien,1893,1954,masculin
+http://www.wikidata.org/entity/Q18593033,57380,137841353,Eric G. Forbes,astronome,1933,1984,masculin
+http://www.wikidata.org/entity/Q18716347,77411,050252194,A. Davy de Virville,botaniste,1896,1967,masculin
+http://www.wikidata.org/entity/Q18716347,77411,050252194,A. Davy de Virville,maître de conférences,1896,1967,masculin
+http://www.wikidata.org/entity/Q18716347,77411,050252194,A. Davy de Virville,phycologue,1896,1967,masculin
+http://www.wikidata.org/entity/Q19787950,256411,026753790,Numa Broc,géographe,1934,2017,masculin
+http://www.wikidata.org/entity/Q19931408,77509,032537522,T. Kahan,physicien,1904,1984,masculin
+http://www.wikidata.org/entity/Q19931408,77509,032537522,T. Kahan,écrivain,1904,1984,masculin
+http://www.wikidata.org/entity/Q19945158,202917,no value,Michel Blay,philosophe,1948,????,masculin
+http://www.wikidata.org/entity/Q2020813,11265,029861330,Olivier Darrigol,historien des sciences,1955,????,masculin
+http://www.wikidata.org/entity/Q20752167,57328,030853931,Georgette Legee,historien des sciences,1914,1993,féminin
+http://www.wikidata.org/entity/Q20859115,76567,067063888,E.M. Bruins,historien des mathématiques,1909,1990,masculin
+http://www.wikidata.org/entity/Q20859115,76567,067063888,E.M. Bruins,physicien,1909,1990,masculin
+http://www.wikidata.org/entity/Q20859115,76567,067063888,E.M. Bruins,professeur d'université,1909,1990,masculin
+http://www.wikidata.org/entity/Q2093396,206279,026841991,Pierre Dugac,historien,1926,2000,masculin
+http://www.wikidata.org/entity/Q2093396,206279,026841991,Pierre Dugac,historien des mathématiques,1926,2000,masculin
+http://www.wikidata.org/entity/Q2093396,206279,026841991,Pierre Dugac,mathématicien,1926,2000,masculin
+http://www.wikidata.org/entity/Q21263372,212568,027083845,Joëlle Proust,philosophe,1947,????,féminin
+http://www.wikidata.org/entity/Q21392660,77445,086701061,Denis Duveen,botaniste,1910,1992,masculin
+http://www.wikidata.org/entity/Q21392660,77445,086701061,Denis Duveen,chimiste,1910,1992,masculin
+http://www.wikidata.org/entity/Q21392660,77445,086701061,Denis Duveen,personnalité du monde des affaires,1910,1992,masculin
+http://www.wikidata.org/entity/Q21395298,57368,033529124,Jean Gaudant,paléontologue,no value,????,masculin
+http://www.wikidata.org/entity/Q21483267,52130,088789438,Michel Pinault,historien,1951,????,masculin
+http://www.wikidata.org/entity/Q21791478,54451,026816016,Claude Debru,philosophe,1944,????,masculin
+http://www.wikidata.org/entity/Q21996122,386272,026698978,François Azouvi,philosophe,1945,????,masculin
+http://www.wikidata.org/entity/Q22694746,55230,no value,Seymour H. Mauskopf,chimiste,1938,????,masculin
+http://www.wikidata.org/entity/Q2281554,255990,026761890,Claude Cahen,historien,1909,1991,masculin
+http://www.wikidata.org/entity/Q2281554,255990,026761890,Claude Cahen,médiéviste,1909,1991,masculin
+http://www.wikidata.org/entity/Q2281554,255990,026761890,Claude Cahen,traducteur,1909,1991,masculin
+http://www.wikidata.org/entity/Q22911477,79798,no value,M. Crosland,Q53554997,1931,2020,masculin
+http://www.wikidata.org/entity/Q2309852,237683,026801450,Paul Couderc,astronome,1899,1981,masculin
+http://www.wikidata.org/entity/Q24203074,44599,026788292,Anne Marie Chouillet,éditeur,1921,2016,féminin
+http://www.wikidata.org/entity/Q2478100,57405,028507592,Umberto Bottazzini,historien des mathématiques,1947,????,masculin
+http://www.wikidata.org/entity/Q2478100,57405,028507592,Umberto Bottazzini,mathématicien,1947,????,masculin
+http://www.wikidata.org/entity/Q2478100,57405,028507592,Umberto Bottazzini,professeur d'université,1947,????,masculin
+http://www.wikidata.org/entity/Q2532952,215046,027026566,Fernand Meyer,anthropologue,1947,????,masculin
+http://www.wikidata.org/entity/Q25391761,249975,026933055,Danielle Jacquart,historien,1947,????,féminin
+http://www.wikidata.org/entity/Q25391853,10484,032402643,Pierre Caye,philosophe,no value,????,masculin
+http://www.wikidata.org/entity/Q25649185,177445,028421663,Pietro Corsi,historien des sciences,1948,????,masculin
+http://www.wikidata.org/entity/Q274978,236840,026750937,Émile Bréhier,historien de la philosophie,1876,1952,masculin
+http://www.wikidata.org/entity/Q274978,236840,026750937,Émile Bréhier,philosophe,1876,1952,masculin
+http://www.wikidata.org/entity/Q274978,236840,026750937,Émile Bréhier,professeur,1876,1952,masculin
+http://www.wikidata.org/entity/Q27999693,54618,028571576,Maurizio Torrini,historien de la philosophie,1942,2019,masculin
+http://www.wikidata.org/entity/Q2847500,10458,035654864,Andre Charrak,philosophe,1953,????,masculin
+http://www.wikidata.org/entity/Q2848551,57425,15580913X,André Robinet,philosophe,1922,2016,masculin
+http://www.wikidata.org/entity/Q28494497,238658,035371080,Brigitte Chamak,chercheur,no value,????,féminin
+http://www.wikidata.org/entity/Q28494497,238658,035371080,Brigitte Chamak,sociologue,no value,????,féminin
+http://www.wikidata.org/entity/Q2855960,76877,028351592,R. Hooykaas,historien,1906,1994,masculin
+http://www.wikidata.org/entity/Q2855960,76877,028351592,R. Hooykaas,physicien,1906,1994,masculin
+http://www.wikidata.org/entity/Q2855960,76877,028351592,R. Hooykaas,professeur d'université,1906,1994,masculin
+http://www.wikidata.org/entity/Q2861912,76578,028259874,Armand Machabey,biographe,1886,1966,masculin
+http://www.wikidata.org/entity/Q2861912,76578,028259874,Armand Machabey,musicologue,1886,1966,masculin
+http://www.wikidata.org/entity/Q28648,57318,026767627,Doru Todericiu,historien,1921,2008,masculin
+http://www.wikidata.org/entity/Q28648,57318,026767627,Doru Todericiu,écrivain,1921,2008,masculin
+http://www.wikidata.org/entity/Q2864997,30587,073314358,Arthur Birembaut,ingénieur,1905,1986,masculin
+http://www.wikidata.org/entity/Q287953,57274,027109887,Jean Rostand,biologiste,1894,1977,masculin
+http://www.wikidata.org/entity/Q287953,57274,027109887,Jean Rostand,historien,1894,1977,masculin
+http://www.wikidata.org/entity/Q287953,57274,027109887,Jean Rostand,philosophe,1894,1977,masculin
+http://www.wikidata.org/entity/Q287953,57274,027109887,Jean Rostand,écrivain,1894,1977,masculin
+http://www.wikidata.org/entity/Q2897345,10528,026718979,Bernadette Bensaude Vincent,chercheur,1949,????,féminin
+http://www.wikidata.org/entity/Q2897345,10528,026718979,Bernadette Bensaude Vincent,historien des sciences,1949,????,féminin
+http://www.wikidata.org/entity/Q2897345,10528,026718979,Bernadette Bensaude Vincent,philosophe,1949,????,féminin
+http://www.wikidata.org/entity/Q2897345,10528,026718979,Bernadette Bensaude Vincent,professeur d'université,1949,????,féminin
+http://www.wikidata.org/entity/Q2899549,239553,032441401,Bertrand Gille,archiviste,1920,1980,masculin
+http://www.wikidata.org/entity/Q2899549,239553,032441401,Bertrand Gille,historien,1920,1980,masculin
+http://www.wikidata.org/entity/Q2926897,82815,030778603,Bruno Morando,astronome,1931,1995,masculin
+http://www.wikidata.org/entity/Q293224,11253,028006305,Marjorie Grene,biologiste,1910,2009,féminin
+http://www.wikidata.org/entity/Q293224,11253,028006305,Marjorie Grene,philosophe,1910,2009,féminin
+http://www.wikidata.org/entity/Q293224,11253,028006305,Marjorie Grene,professeur d'université,1910,2009,féminin
+http://www.wikidata.org/entity/Q293224,11253,028006305,Marjorie Grene,écrivain,1910,2009,féminin
+http://www.wikidata.org/entity/Q29344825,76392,no value,Robert Lenoble,historien des sciences,1902,1959,masculin
+http://www.wikidata.org/entity/Q2935000,79955,031972004,Camille Limoges,historien,1942,????,masculin
+http://www.wikidata.org/entity/Q2941857,76085,02678596X,C. De Buzon,philosophe,1951,????,féminin
+http://www.wikidata.org/entity/Q2941857,76085,02678596X,C. De Buzon,professeur d'université,1951,????,féminin
+http://www.wikidata.org/entity/Q2941889,275465,026827956,Catherine Despeux,sinologue,1945,????,féminin
+http://www.wikidata.org/entity/Q2941889,275465,026827956,Catherine Despeux,sinologue,1946,????,féminin
+http://www.wikidata.org/entity/Q2960178,57291,030732751,Charles Sadron,chimiste,1902,1993,masculin
+http://www.wikidata.org/entity/Q2960178,57291,030732751,Charles Sadron,physicien,1902,1993,masculin
+http://www.wikidata.org/entity/Q2966146,257680,026779528,Christophe Charle,historien,1951,????,masculin
+http://www.wikidata.org/entity/Q2966146,257680,026779528,Christophe Charle,professeur d'université,1951,????,masculin
+http://www.wikidata.org/entity/Q2975121,54437,027120422,Claire Salomon Bayet,philosophe,1932,2016,féminin
+http://www.wikidata.org/entity/Q2977027,63158,028593766,Claude Blanckaert,écrivain,1952,????,masculin
+http://www.wikidata.org/entity/Q2977434,57330,056542089,Claude Galarneau,historien,1925,2018,masculin
+http://www.wikidata.org/entity/Q2977434,57330,056542089,Claude Galarneau,professeur d'université,1925,2018,masculin
+http://www.wikidata.org/entity/Q2978467,47603,02973097X,Claudine Cohen,historien des sciences,1951,????,féminin
+http://www.wikidata.org/entity/Q2978467,47603,02973097X,Claudine Cohen,paléontologue,1951,????,féminin
+http://www.wikidata.org/entity/Q2978467,47603,02973097X,Claudine Cohen,philosophe,1951,????,féminin
+http://www.wikidata.org/entity/Q2978467,47603,02973097X,Claudine Cohen,écrivain,1951,????,féminin
+http://www.wikidata.org/entity/Q2997497,76390,026815214,C. De Waard,historien,1879,1963,masculin
+http://www.wikidata.org/entity/Q2997497,76390,026815214,C. De Waard,mathématicien,1879,1963,masculin
+http://www.wikidata.org/entity/Q30118593,54474,05220443X,Suzanne Debarbat,astronome,1928,????,féminin
+http://www.wikidata.org/entity/Q3035109,79828,026839091,Dominique Dubarle,philosophe,1907,1987,masculin
+http://www.wikidata.org/entity/Q3035109,79828,026839091,Dominique Dubarle,prêtre catholique,1907,1987,masculin
+http://www.wikidata.org/entity/Q3035385,29629,028314050,Dominique Pestre,historien des sciences,1950,????,masculin
+http://www.wikidata.org/entity/Q3035981,29781,032132344,Donald MacKenzie,ingénieur,1950,????,masculin
+http://www.wikidata.org/entity/Q3035981,29781,032132344,Donald MacKenzie,sociologue,1950,????,masculin
+http://www.wikidata.org/entity/Q3038019,142794,03429211X,Douglas McKie,chimiste,1896,1967,masculin
+http://www.wikidata.org/entity/Q3057207,76588,032010257,Ernest Wickersheimer,bibliothécaire,1880,1965,masculin
+http://www.wikidata.org/entity/Q307,142805,026879255,Galileo Galilei,Esprit universel,no value,????,masculin
+http://www.wikidata.org/entity/Q307,142805,026879255,Galileo Galilei,astrologue,no value,????,masculin
+http://www.wikidata.org/entity/Q307,142805,026879255,Galileo Galilei,astronome,no value,????,masculin
+http://www.wikidata.org/entity/Q307,142805,026879255,Galileo Galilei,ingénieur,no value,????,masculin
+http://www.wikidata.org/entity/Q307,142805,026879255,Galileo Galilei,inventeur,no value,????,masculin
+http://www.wikidata.org/entity/Q307,142805,026879255,Galileo Galilei,mathématicien,no value,????,masculin
+http://www.wikidata.org/entity/Q307,142805,026879255,Galileo Galilei,philosophe,no value,????,masculin
+http://www.wikidata.org/entity/Q307,142805,026879255,Galileo Galilei,physicien,no value,????,masculin
+http://www.wikidata.org/entity/Q307,142805,026879255,Galileo Galilei,professeur d'université,no value,????,masculin
+http://www.wikidata.org/entity/Q307,142805,026879255,Galileo Galilei,scientifique,no value,????,masculin
+http://www.wikidata.org/entity/Q3082083,170459,073168203,Franck Bourdier,archéologue,1910,1985,masculin
+http://www.wikidata.org/entity/Q3084343,166091,026808951,François Dagognet,philosophe,1924,2015,masculin
+http://www.wikidata.org/entity/Q3084343,166091,026808951,François Dagognet,philosophe des sciences,1924,2015,masculin
+http://www.wikidata.org/entity/Q3084343,166091,026808951,François Dagognet,professeur d'université,1924,2015,masculin
+http://www.wikidata.org/entity/Q3084395,158704,026819066,François Delaporte,philosophe,1941,2019,masculin
+http://www.wikidata.org/entity/Q3084560,57355,029102189,François Ellenberger,géologue,1915,2000,masculin
+http://www.wikidata.org/entity/Q3085768,79783,no value,François Russo,historien des sciences,1909,1998,masculin
+http://www.wikidata.org/entity/Q3085768,79783,no value,François Russo,théologien,1909,1998,masculin
+http://www.wikidata.org/entity/Q3085768,79783,no value,François Russo,épistémologue,1909,1998,masculin
+http://www.wikidata.org/entity/Q3086175,195300,026809362,François de Dainville,géographe,1909,1971,masculin
+http://www.wikidata.org/entity/Q3086175,195300,026809362,François de Dainville,historien,1909,1971,masculin
+http://www.wikidata.org/entity/Q3086175,195300,026809362,François de Dainville,prêtre catholique,1909,1971,masculin
+http://www.wikidata.org/entity/Q3086391,66623,026702266,Françoise Balibar,physicien,1941,????,féminin
+http://www.wikidata.org/entity/Q3100150,76838,034344284,Henri Berr,philosophe,1863,1954,masculin
+http://www.wikidata.org/entity/Q3100150,76838,034344284,Henri Berr,professeur,1863,1954,masculin
+http://www.wikidata.org/entity/Q3100689,247655,027105520,Genevieve Rodis Lewis,philosophe,1918,2004,féminin
+http://www.wikidata.org/entity/Q3102352,76967,032355025,G. Bouligand,mathématicien,1889,1979,masculin
+http://www.wikidata.org/entity/Q3106259,281588,026900610,Gilles Gaston Granger,philosophe,1920,2016,masculin
+http://www.wikidata.org/entity/Q3106259,281588,026900610,Gilles Gaston Granger,professeur,1920,2016,masculin
+http://www.wikidata.org/entity/Q3106259,281588,026900610,Gilles Gaston Granger,épistémologue,1920,2016,masculin
+http://www.wikidata.org/entity/Q3121538,220364,026712423,Guy Beaujouan,archiviste,1925,2007,masculin
+http://www.wikidata.org/entity/Q3121538,220364,026712423,Guy Beaujouan,historien des sciences,1925,2007,masculin
+http://www.wikidata.org/entity/Q3124306,10466,027138933,Gerard Simon,historien des sciences,1931,2009,masculin
+http://www.wikidata.org/entity/Q3124306,10466,027138933,Gerard Simon,philosophe,1931,2009,masculin
+http://www.wikidata.org/entity/Q3134562,54516,028287622,Hervé Le Guyader,biologiste,1948,????,masculin
+http://www.wikidata.org/entity/Q3134562,54516,028287622,Hervé Le Guyader,botaniste,1948,????,masculin
+http://www.wikidata.org/entity/Q3134562,54516,028287622,Hervé Le Guyader,professeur des universités,1948,????,masculin
+http://www.wikidata.org/entity/Q3134562,54516,028287622,Hervé Le Guyader,zoologiste,1948,????,masculin
+http://www.wikidata.org/entity/Q3159556,57339,028258959,Jacques Merleau Ponty,historien des sciences,1916,2002,masculin
+http://www.wikidata.org/entity/Q3159556,57339,028258959,Jacques Merleau Ponty,philosophe,1916,2002,masculin
+http://www.wikidata.org/entity/Q3159903,63914,02710592X,Jacques Roger,professeur d'université,1920,1990,masculin
+http://www.wikidata.org/entity/Q3167430,172515,051642484,Jean-Marc Mandosio,philosophe,1963,????,masculin
+http://www.wikidata.org/entity/Q3167430,172515,051642484,Jean-Marc Mandosio,traducteur,1963,????,masculin
+http://www.wikidata.org/entity/Q3168142,54630,030397383,Jean Michel Salanskis,mathématicien,1951,????,masculin
+http://www.wikidata.org/entity/Q3168142,54630,030397383,Jean Michel Salanskis,philosophe,1951,????,masculin
+http://www.wikidata.org/entity/Q3168601,82506,027016838,Jean-Paul Mathieu,médecin,1907,1993,masculin
+http://www.wikidata.org/entity/Q3168601,82506,027016838,Jean-Paul Mathieu,physicien,1907,1993,masculin
+http://www.wikidata.org/entity/Q3170725,57300,026722771,Jean Bernhardt,philosophe,1927,2000,masculin
+http://www.wikidata.org/entity/Q3171579,265704,030309344,Jean Dautry,historien,1910,1968,masculin
+http://www.wikidata.org/entity/Q3171579,265704,030309344,Jean Dautry,professeur d'histoire,1910,1968,masculin
+http://www.wikidata.org/entity/Q3171737,44536,026830302,Jean Dhombres,chercheur,1942,????,masculin
+http://www.wikidata.org/entity/Q3171737,44536,026830302,Jean Dhombres,directeur de collection,1942,????,masculin
+http://www.wikidata.org/entity/Q3171737,44536,026830302,Jean Dhombres,historien des mathématiques,1942,????,masculin
+http://www.wikidata.org/entity/Q3171737,44536,026830302,Jean Dhombres,mathématicien,1942,????,masculin
+http://www.wikidata.org/entity/Q3171737,44536,026830302,Jean Dhombres,professeur d'université,1942,????,masculin
+http://www.wikidata.org/entity/Q3173000,82496,026966271,J. Largeault,philosophe,1931,1995,masculin
+http://www.wikidata.org/entity/Q3173495,280246,027024970,Jean Mesnard,critique littéraire,1921,2016,masculin
+http://www.wikidata.org/entity/Q3173937,28336,027068846,Jean Petitot,mathématicien,1944,????,masculin
+http://www.wikidata.org/entity/Q3173937,28336,027068846,Jean Petitot,philosophe,1944,????,masculin
+http://www.wikidata.org/entity/Q3174422,57304,02710916X,Jean Rosmorduc,physicien,1937,????,masculin
+http://www.wikidata.org/entity/Q3174800,55242,027159140,Jean Théodoridès,parasitologue,1926,1999,masculin
+http://www.wikidata.org/entity/Q3174814,180204,029246180,Jean Torlais,historien des sciences,1897,1964,masculin
+http://www.wikidata.org/entity/Q3185381,275436,027037665,Joseph Moreau,philosophe,1900,1988,masculin
+http://www.wikidata.org/entity/Q3187359,246472,026727412,Joël Biard,philosophe,1952,????,masculin
+http://www.wikidata.org/entity/Q319243,29959,no value,Alexandre Koyré,historien des sciences,1892,1964,masculin
+http://www.wikidata.org/entity/Q319243,29959,no value,Alexandre Koyré,philosophe,1892,1964,masculin
+http://www.wikidata.org/entity/Q319243,29959,no value,Alexandre Koyré,professeur d'université,1892,1964,masculin
+http://www.wikidata.org/entity/Q3265714,57320,no value,Lucien Scheler,libraire,1902,1999,masculin
+http://www.wikidata.org/entity/Q3265714,57320,no value,Lucien Scheler,poète,1902,1999,masculin
+http://www.wikidata.org/entity/Q3265714,57320,no value,Lucien Scheler,résistant,1902,1999,masculin
+http://www.wikidata.org/entity/Q3265714,57320,no value,Lucien Scheler,éditeur,1902,1999,masculin
+http://www.wikidata.org/entity/Q3300631,30275,026812894,Maurice Daumas,chimiste,1910,1984,masculin
+http://www.wikidata.org/entity/Q3300631,30275,026812894,Maurice Daumas,conservateur,1910,1984,masculin
+http://www.wikidata.org/entity/Q3301278,57352,059443200,Maurice Ponte,ingénieur,1902,1983,masculin
+http://www.wikidata.org/entity/Q3301278,57352,059443200,Maurice Ponte,physicien,1902,1983,masculin
+http://www.wikidata.org/entity/Q3302608,76586,031928242,Maxime Laignel-Lavastine,psychiatre,1875,1953,masculin
+http://www.wikidata.org/entity/Q3308789,233579,027112144,Michel-Louis Rouquette,psychologue,1948,2011,masculin
+http://www.wikidata.org/entity/Q3309626,57448,030717795,Michel Fichant,professeur d'université,1941,????,masculin
+http://www.wikidata.org/entity/Q3318996,228359,027139832,Mohammed-Allal Sinaceur,philosophe,1941,????,masculin
+http://www.wikidata.org/entity/Q3350939,82475,026800527,Olivier Costa De Beauregard,physicien,1911,2007,masculin
+http://www.wikidata.org/entity/Q3370863,49862,026782537,Paul Chauchard,médecin,1912,2003,masculin
+http://www.wikidata.org/entity/Q3370863,49862,026782537,Paul Chauchard,philosophe,1912,2003,masculin
+http://www.wikidata.org/entity/Q3370863,49862,026782537,Paul Chauchard,écrivain,1912,2003,masculin
+http://www.wikidata.org/entity/Q3371737,62219,030588278,Paul Levy,anthropologue,1909,1998,masculin
+http://www.wikidata.org/entity/Q3371942,76700,033465592,P. Ostoya,botaniste,1904,1969,masculin
+http://www.wikidata.org/entity/Q3371942,76700,033465592,P. Ostoya,journaliste,1904,1969,masculin
+http://www.wikidata.org/entity/Q3371942,76700,033465592,P. Ostoya,mycologue,1904,1969,masculin
+http://www.wikidata.org/entity/Q3372373,279967,027185079,Paul Vignaux,médiéviste,1904,1987,masculin
+http://www.wikidata.org/entity/Q3372373,279967,027185079,Paul Vignaux,philosophe,1904,1987,masculin
+http://www.wikidata.org/entity/Q3380064,276232,052195929,Philippe Jansen,historien,1956,????,masculin
+http://www.wikidata.org/entity/Q3383049,169877,027037819,Pierre-François Moreau,philosophe,1948,????,masculin
+http://www.wikidata.org/entity/Q3383049,169877,027037819,Pierre-François Moreau,professeur d'université,1948,????,masculin
+http://www.wikidata.org/entity/Q3383049,169877,027037819,Pierre-François Moreau,traducteur,1948,????,masculin
+http://www.wikidata.org/entity/Q3383379,237573,027128423,Pierre-Maxime Schuhl,chercheur,1902,1984,masculin
+http://www.wikidata.org/entity/Q3383379,237573,027128423,Pierre-Maxime Schuhl,philosophe,1902,1984,masculin
+http://www.wikidata.org/entity/Q3383414,156114,030662974,Pierre Noël Mayaud,prêtre catholique,1923,2006,masculin
+http://www.wikidata.org/entity/Q3384532,57270,026800659,Pierre Costabel,historien,1912,1989,masculin
+http://www.wikidata.org/entity/Q3384532,57270,026800659,Pierre Costabel,mathématicien,1912,1989,masculin
+http://www.wikidata.org/entity/Q3384532,57270,026800659,Pierre Costabel,prêtre catholique,1912,1989,masculin
+http://www.wikidata.org/entity/Q3385992,251012,026994887,Pierre Lory,islamologue,1952,????,masculin
+http://www.wikidata.org/entity/Q3385992,251012,026994887,Pierre Lory,professeur d'université,1952,????,masculin
+http://www.wikidata.org/entity/Q3435345,248732,026912872,Robert Halleux,historien des sciences,1946,????,masculin
+http://www.wikidata.org/entity/Q3439073,4619,no value,Roger Hervé,cartographe,1904,1997,masculin
+http://www.wikidata.org/entity/Q3439073,4619,no value,Roger Hervé,historien,1904,1997,masculin
+http://www.wikidata.org/entity/Q3439376,47123,032037724,Roger Portal,historien,1906,1994,masculin
+http://www.wikidata.org/entity/Q3439376,47123,032037724,Roger Portal,professeur d'université,1906,1994,masculin
+http://www.wikidata.org/entity/Q3440134,29861,033362653,Roland Lamontagne,historien,1921,2011,masculin
+http://www.wikidata.org/entity/Q3442614,233779,027090078,Roshdi Rashed,historien des mathématiques,1936,????,masculin
+http://www.wikidata.org/entity/Q3442614,233779,027090078,Roshdi Rashed,mathématicien,1936,????,masculin
+http://www.wikidata.org/entity/Q3442614,233779,027090078,Roshdi Rashed,philosophe,1936,????,masculin
+http://www.wikidata.org/entity/Q3442614,233779,027090078,Roshdi Rashed,professeur,1936,????,masculin
+http://www.wikidata.org/entity/Q35151882,388958,060387912,Georges Huard,no value,1887,1962,masculin
+http://www.wikidata.org/entity/Q3559521,213679,030393426,Vincent Carraud,enseignant-chercheur,1957,????,masculin
+http://www.wikidata.org/entity/Q3559521,213679,030393426,Vincent Carraud,historien de la philosophie,1957,????,masculin
+http://www.wikidata.org/entity/Q3559521,213679,030393426,Vincent Carraud,philosophe,1957,????,masculin
+http://www.wikidata.org/entity/Q3559521,213679,030393426,Vincent Carraud,professeur des universités,1957,????,masculin
+http://www.wikidata.org/entity/Q3564326,139671,033482632,Véronique Le Ru,philosophe,1962,????,féminin
+http://www.wikidata.org/entity/Q3573649,142775,075120119,Yves François,ichtyologiste,1914,2000,masculin
+http://www.wikidata.org/entity/Q3588552,142807,032519796,E. Guyénot,biologiste,1885,1963,masculin
+http://www.wikidata.org/entity/Q3588552,142807,032519796,E. Guyénot,professeur d'université,1885,1963,masculin
+http://www.wikidata.org/entity/Q3588552,142807,032519796,E. Guyénot,zoologiste,1885,1963,masculin
+http://www.wikidata.org/entity/Q3590962,56370,033901805,Éric BARATAY,historien,1960,????,masculin
+http://www.wikidata.org/entity/Q36022158,77056,031405614,Y. Drieux,archiviste,1933,????,féminin
+http://www.wikidata.org/entity/Q36035296,157941,027061426,Jacques Payen,historien,1931,1993,masculin
+http://www.wikidata.org/entity/Q371154,387965,02692921X,Serge Hutin,écrivain,1927,1997,masculin
+http://www.wikidata.org/entity/Q371154,387965,02692921X,Serge Hutin,écrivain,1929,1997,masculin
+http://www.wikidata.org/entity/Q3767965,76428,no value,Giovanni Polvani,enseignant,1892,1970,masculin
+http://www.wikidata.org/entity/Q3767965,76428,no value,Giovanni Polvani,personnalité politique,1892,1970,masculin
+http://www.wikidata.org/entity/Q3767965,76428,no value,Giovanni Polvani,physicien,1892,1970,masculin
+http://www.wikidata.org/entity/Q3897994,280883,027028321,Paul-Henri Michel,historien,1894,1964,masculin
+http://www.wikidata.org/entity/Q40727201,10502,027020452,Simone Mazauric,philosophe,1945,????,féminin
+http://www.wikidata.org/entity/Q40727201,10502,027020452,Simone Mazauric,épistémologue,1945,????,féminin
+http://www.wikidata.org/entity/Q40892835,364038,026955679,Hervé L’Huillier,archiviste,1951,????,masculin
+http://www.wikidata.org/entity/Q40892835,364038,026955679,Hervé L’Huillier,historien des sciences,1951,????,masculin
+http://www.wikidata.org/entity/Q41671403,149135,026677237,Pascal Acot,historien,1942,????,masculin
+http://www.wikidata.org/entity/Q41673159,76599,no value,A. Tétry,biologiste,1907,1992,féminin
+http://www.wikidata.org/entity/Q41673159,76599,no value,A. Tétry,zoologiste,1907,1992,féminin
+http://www.wikidata.org/entity/Q42317897,230408,033571902,Annick Horiuchi,historien des mathématiques,1959,????,féminin
+http://www.wikidata.org/entity/Q42317897,230408,033571902,Annick Horiuchi,mathématicien,1959,????,féminin
+http://www.wikidata.org/entity/Q42318893,284407,026659263,Henri Hugonnard-Roche,no value,1944,????,masculin
+http://www.wikidata.org/entity/Q42350873,286815,026780097,Thérèse Charmasson,no value,1950,????,féminin
+http://www.wikidata.org/entity/Q42365658,36482,030827108,Ghislaine L'Huillier,historien,no value,????,féminin
+http://www.wikidata.org/entity/Q4259300,243889,032097069,Jean-François Leroy,botaniste,1915,1999,masculin
+http://www.wikidata.org/entity/Q433741,168073,026765217,Georges Canguilhem,historien des sciences,1904,1995,masculin
+http://www.wikidata.org/entity/Q433741,168073,026765217,Georges Canguilhem,médecin,1904,1995,masculin
+http://www.wikidata.org/entity/Q433741,168073,026765217,Georges Canguilhem,philosophe,1904,1995,masculin
+http://www.wikidata.org/entity/Q433741,168073,026765217,Georges Canguilhem,professeur d'université,1904,1995,masculin
+http://www.wikidata.org/entity/Q433741,168073,026765217,Georges Canguilhem,résistant,1904,1995,masculin
+http://www.wikidata.org/entity/Q4386752,57353,082754071,Yakov M. Rabkin,historien,1945,????,masculin
+http://www.wikidata.org/entity/Q43958692,220817,028307801,Bruno Belhoste,historien des sciences,1952,????,masculin
+http://www.wikidata.org/entity/Q44272,204018,026870290,Michel Foucault,philosophe,1926,1984,masculin
+http://www.wikidata.org/entity/Q46641790,10498,050729616,Jean Eisenstaedt,physicien,1940,????,masculin
+http://www.wikidata.org/entity/Q472206,364680,02718160X,Jean-Pierre Vernant,anthropologue,1914,2007,masculin
+http://www.wikidata.org/entity/Q472206,364680,02718160X,Jean-Pierre Vernant,enseignant,1914,2007,masculin
+http://www.wikidata.org/entity/Q472206,364680,02718160X,Jean-Pierre Vernant,historien,1914,2007,masculin
+http://www.wikidata.org/entity/Q472206,364680,02718160X,Jean-Pierre Vernant,philosophe,1914,2007,masculin
+http://www.wikidata.org/entity/Q472206,364680,02718160X,Jean-Pierre Vernant,professeur,1914,2007,masculin
+http://www.wikidata.org/entity/Q472206,364680,02718160X,Jean-Pierre Vernant,résistant,1914,2007,masculin
+http://www.wikidata.org/entity/Q472206,364680,02718160X,Jean-Pierre Vernant,érudit classique,1914,2007,masculin
+http://www.wikidata.org/entity/Q47402082,285534,no value,Stéphane Le Gars,chanteur,1998,????,masculin
+http://www.wikidata.org/entity/Q47402082,285534,no value,Stéphane Le Gars,danseur,1998,????,masculin
+http://www.wikidata.org/entity/Q47402082,285534,no value,Stéphane Le Gars,mannequin,1998,????,masculin
+http://www.wikidata.org/entity/Q4775527,394313,028982355,Antoine Picon,architecte,1957,????,masculin
+http://www.wikidata.org/entity/Q481484,6718,026773317,André de Cailleux,géographe,1907,1986,masculin
+http://www.wikidata.org/entity/Q481484,6718,026773317,André de Cailleux,géologue,1907,1986,masculin
+http://www.wikidata.org/entity/Q481484,6718,026773317,André de Cailleux,paléontologue,1907,1986,masculin
+http://www.wikidata.org/entity/Q48758594,150991,02706042X,Michel Paty,physicien,1938,????,masculin
+http://www.wikidata.org/entity/Q48758594,150991,02706042X,Michel Paty,écrivain,1938,????,masculin
+http://www.wikidata.org/entity/Q48926800,169439,026890224,Luce Giard,no value,1950,????,féminin
+http://www.wikidata.org/entity/Q48927545,157841,026826968,Dominique Descotes,professeur d'université,1948,????,masculin
+http://www.wikidata.org/entity/Q49162565,171961,026908204,Jacques Guilhaumou,historien,1948,????,masculin
+http://www.wikidata.org/entity/Q50261638,9520,06106632X,Jacqueline Filliozat,no value,1942,????,féminin
+http://www.wikidata.org/entity/Q51391017,55245,no value,Jean Louis Gardies,no value,1925,2004,masculin
+http://www.wikidata.org/entity/Q518207,30679,026691817,Jean-Paul Aron,journaliste,1925,1988,masculin
+http://www.wikidata.org/entity/Q518207,30679,026691817,Jean-Paul Aron,écrivain,1925,1988,masculin
+http://www.wikidata.org/entity/Q52157760,82775,028751051,Jean-Paul Deleage,géopolitologue,1950,????,masculin
+http://www.wikidata.org/entity/Q52157760,82775,028751051,Jean-Paul Deleage,historien,1950,????,masculin
+http://www.wikidata.org/entity/Q52157760,82775,028751051,Jean-Paul Deleage,professeur d'université,1950,????,masculin
+http://www.wikidata.org/entity/Q52158640,57332,03439754X,Roger Hahn,historien,1932,2011,masculin
+http://www.wikidata.org/entity/Q52283652,82818,032057555,Anne-Marie Drouin-Hans,philosophe,1947,????,féminin
+http://www.wikidata.org/entity/Q52425704,246691,026712385,Jean Beaujeu,latiniste,1916,1995,masculin
+http://www.wikidata.org/entity/Q527522,233628,027039641,Serge Moscovici,directeurs des études,1925,2014,masculin
+http://www.wikidata.org/entity/Q527522,233628,027039641,Serge Moscovici,psychologue social,1925,2014,masculin
+http://www.wikidata.org/entity/Q527805,57317,028910265,Marie Boas Hall,historien,1919,2009,féminin
+http://www.wikidata.org/entity/Q527805,57317,028910265,Marie Boas Hall,historien des sciences,1919,2009,féminin
+http://www.wikidata.org/entity/Q527805,76993,028910265,Marie Boas,historien,1919,2009,féminin
+http://www.wikidata.org/entity/Q527805,76993,028910265,Marie Boas,historien des sciences,1919,2009,féminin
+http://www.wikidata.org/entity/Q532542,269040,026773171,Maurice Caveing,historien des mathématiques,1923,2019,masculin
+http://www.wikidata.org/entity/Q532542,269040,026773171,Maurice Caveing,philosophe,1923,2019,masculin
+http://www.wikidata.org/entity/Q53570363,63572,no value,Jean Boissel,no value,1920,2000,masculin
+http://www.wikidata.org/entity/Q54156064,63741,026933748,Jean Jacquot,no value,1909,1983,masculin
+http://www.wikidata.org/entity/Q5496926,79870,no value,D. A. Wittop-Koning,costumier,1911,2001,masculin
+http://www.wikidata.org/entity/Q5496926,79870,no value,D. A. Wittop-Koning,danseur,1911,2001,masculin
+http://www.wikidata.org/entity/Q55231130,55163,032608349,Pierre Ickowicz,écrivain,1963,????,masculin
+http://www.wikidata.org/entity/Q55231173,54612,083685979,Xavier Sabatier,écrivain,1975,????,masculin
+http://www.wikidata.org/entity/Q55455437,181008,029722284,Charles Bedel,écrivain,1889,1967,masculin
+http://www.wikidata.org/entity/Q55584894,76420,069235651,Charles Brunold,écrivain,1893,1984,masculin
+http://www.wikidata.org/entity/Q55594188,276548,032035845,Jean Cousin,latiniste,1902,1981,masculin
+http://www.wikidata.org/entity/Q55594287,76402,no value,Henri Daudin,no value,1881,1947,masculin
+http://www.wikidata.org/entity/Q55619842,220082,026928035,Nicole Hulin,historien des sciences,1935,????,féminin
+http://www.wikidata.org/entity/Q55619842,220082,026928035,Nicole Hulin,physicien,1935,????,féminin
+http://www.wikidata.org/entity/Q55619842,220082,026928035,Nicole Hulin,écrivain,1935,????,féminin
+http://www.wikidata.org/entity/Q55620312,364417,026696541,Germaine Aujac,écrivain,1923,????,féminin
+http://www.wikidata.org/entity/Q55620339,216983,030712165,Giulia Belgioioso,écrivain,1947,????,féminin
+http://www.wikidata.org/entity/Q55620535,54848,057450781,Christiane Vilain,écrivain,1945,????,féminin
+http://www.wikidata.org/entity/Q55620645,223112,031538355,Roselyne Rey,écrivain,1951,1995,féminin
+http://www.wikidata.org/entity/Q55620807,10460,034008381,Gianfranco Mormino,écrivain,1962,????,masculin
+http://www.wikidata.org/entity/Q55620812,11259,033736421,Marco Beretta,chercheur,1962,????,masculin
+http://www.wikidata.org/entity/Q55620812,11259,033736421,Marco Beretta,écrivain,1962,????,masculin
+http://www.wikidata.org/entity/Q55621829,223023,034294929,Danielle Fauque,écrivain,1947,????,féminin
+http://www.wikidata.org/entity/Q55622286,82816,091568811,Filipe Drapeau Contim,écrivain,1971,????,masculin
+http://www.wikidata.org/entity/Q55622780,76315,061056553,Léon Auger,écrivain,no value,????,masculin
+http://www.wikidata.org/entity/Q55623410,276734,027040429,Anne-Marie Moulin,conférencier,1944,????,féminin
+http://www.wikidata.org/entity/Q55623410,276734,027040429,Anne-Marie Moulin,médecin,1944,????,féminin
+http://www.wikidata.org/entity/Q55623410,276734,027040429,Anne-Marie Moulin,philosophe,1944,????,féminin
+http://www.wikidata.org/entity/Q55623410,276734,027040429,Anne-Marie Moulin,écrivain,1944,????,féminin
+http://www.wikidata.org/entity/Q55623794,11232,031102514,Eugenio Canone,écrivain,1954,????,masculin
+http://www.wikidata.org/entity/Q55623903,57424,027156834,Eva Telkes,historien des sciences,1947,????,féminin
+http://www.wikidata.org/entity/Q55623903,57424,027156834,Eva Telkes,écrivain,1947,????,féminin
+http://www.wikidata.org/entity/Q55623993,150966,077185064,Olivier Perru,écrivain,1959,????,masculin
+http://www.wikidata.org/entity/Q55624906,139669,02688061X,François De Gandt,écrivain,1947,????,masculin
+http://www.wikidata.org/entity/Q55625904,171161,029885949,Anastasios Brenner,écrivain,1959,????,masculin
+http://www.wikidata.org/entity/Q55626113,283427,02895517X,Guy Picolet,écrivain,1948,????,no value
+http://www.wikidata.org/entity/Q55626332,235370,026935554,Khalil Jaouiche,écrivain,1925,2002,masculin
+http://www.wikidata.org/entity/Q55626930,10500,070287759,Stéphane Schmitt,écrivain,1972,????,masculin
+http://www.wikidata.org/entity/Q55626960,393269,026909294,André Guillerme,écrivain,1945,????,masculin
+http://www.wikidata.org/entity/Q55627471,286647,02881116X,Robert Locqueneux,écrivain,1937,????,masculin
+http://www.wikidata.org/entity/Q55627631,144533,029530105,Gérard Emptoz,écrivain,1939,????,masculin
+http://www.wikidata.org/entity/Q55628134,57275,026935600,Roger Jaquel,écrivain,1907,????,masculin
+http://www.wikidata.org/entity/Q55628318,30069,02689467X,Henri Goblot,écrivain,1896,1988,no value
+http://www.wikidata.org/entity/Q55628910,54976,06693933X,Lydie Touret,écrivain,1947,????,féminin
+http://www.wikidata.org/entity/Q55628974,54637,06701304X,Charles Chihara,écrivain,1932,2020,masculin
+http://www.wikidata.org/entity/Q55628987,364340,02973018X,Françoise Parot,écrivain,1947,????,féminin
+http://www.wikidata.org/entity/Q55629385,277853,026969912,Jacques Lautman,écrivain,1934,????,masculin
+http://www.wikidata.org/entity/Q55692454,350738,no value,Charles Mugler,no value,1869,1948,masculin
+http://www.wikidata.org/entity/Q55713362,76972,078793424,Hélène Konczewska,écrivain,no value,????,féminin
+http://www.wikidata.org/entity/Q55770588,142777,no value,Paul Eymard,écrivain,no value,????,masculin
+http://www.wikidata.org/entity/Q55770594,144473,160863406,Adrienne R. Weill,écrivain,1903,1979,féminin
+http://www.wikidata.org/entity/Q55770597,76966,03524447X,Pierre Speziali,écrivain,1913,1995,masculin
+http://www.wikidata.org/entity/Q55770673,76303,136297927,Suzanne Delorme,écrivain,1913,2005,féminin
+http://www.wikidata.org/entity/Q55771596,76538,028410319,Gérard Vassails,écrivain,1910,1994,no value
+http://www.wikidata.org/entity/Q55771665,392174,026930366,Marie-José Imbault-Huart,écrivain,1928,2011,féminin
+http://www.wikidata.org/entity/Q55771862,195502,029595533,Marcel Destombes,cartographe,1905,1983,masculin
+http://www.wikidata.org/entity/Q55771862,195502,029595533,Marcel Destombes,historien,1905,1983,masculin
+http://www.wikidata.org/entity/Q55771862,195502,029595533,Marcel Destombes,écrivain,1905,1983,masculin
+http://www.wikidata.org/entity/Q55772131,76610,084593288,Louis Chauvois,écrivain,1881,1972,masculin
+http://www.wikidata.org/entity/Q55772294,10470,026755211,Paul Brouzeng,écrivain,1938,2012,masculin
+http://www.wikidata.org/entity/Q55772645,265562,026743574,Jean Boulaine,écrivain,1922,2012,masculin
+http://www.wikidata.org/entity/Q55773094,57356,056523297,Yvette Conry,écrivain,1930,1992,féminin
+http://www.wikidata.org/entity/Q55773178,77505,027043789,André Nadal,écrivain,1902,1991,masculin
+http://www.wikidata.org/entity/Q55937800,82819,070472521,Maria Jesus Santesmases,écrivain,no value,????,féminin
+http://www.wikidata.org/entity/Q55938898,11217,033780560,Paolo Ponzio,écrivain,no value,????,masculin
+http://www.wikidata.org/entity/Q55941160,11260,034090797,Walter Bernardi,écrivain,1948,????,masculin
+http://www.wikidata.org/entity/Q55946644,275435,103579052,Pierre Louis,écrivain,1947,????,masculin
+http://www.wikidata.org/entity/Q55948481,230454,031775411,Ariane Isler De Jongh,écrivain,no value,????,féminin
+http://www.wikidata.org/entity/Q55948793,79949,031530842,L.-J.-M. Sahuc,écrivain,1916,????,no value
+http://www.wikidata.org/entity/Q55949715,26044,027082679,René Prévost,écrivain,1920,????,masculin
+http://www.wikidata.org/entity/Q55989853,57442,no value,Paolo Brenni,écrivain,1926,????,masculin
+http://www.wikidata.org/entity/Q55996233,267924,031455220,Pierre Cuvelier,écrivain,no value,????,masculin
+http://www.wikidata.org/entity/Q55999936,57359,13448097X,Rio Howard,écrivain,no value,????,masculin
+http://www.wikidata.org/entity/Q56000004,54966,075152630,Fernando Salmon,écrivain,no value,????,masculin
+http://www.wikidata.org/entity/Q56000233,82806,029835321,Maria Teresa Monti,écrivain,1955,????,féminin
+http://www.wikidata.org/entity/Q56000663,57396,035538694,Sylvain Zac,écrivain,1909,????,masculin
+http://www.wikidata.org/entity/Q56285101,10564,027132668,Michel Serfati,historien des mathématiques,1938,2018,masculin
+http://www.wikidata.org/entity/Q56285101,10564,027132668,Michel Serfati,historien des sciences,1938,2018,masculin
+http://www.wikidata.org/entity/Q56285101,10564,027132668,Michel Serfati,mathématicien,1938,2018,masculin
+http://www.wikidata.org/entity/Q56285101,10564,027132668,Michel Serfati,philosophe,1938,2018,masculin
+http://www.wikidata.org/entity/Q56641765,150992,031854915,Patricia Radelet-de-Grave,historien des sciences,1948,????,féminin
+http://www.wikidata.org/entity/Q5698771,159552,029613639,Antonio Lafuente,chercheur en sciences sociales,1953,????,masculin
+http://www.wikidata.org/entity/Q58420002,82823,075197936,Keiko Kawashima,écrivain,1959,????,féminin
+http://www.wikidata.org/entity/Q5890391,57372,08582819X,Gérard G. Aymonin,botaniste,1934,2014,masculin
+http://www.wikidata.org/entity/Q5890391,57372,08582819X,Gérard G. Aymonin,professeur des universités,1934,2014,masculin
+http://www.wikidata.org/entity/Q5913483,11210,027139824,Hourya Benis-Sinaceur,directeur de collection,1940,????,féminin
+http://www.wikidata.org/entity/Q5913483,11210,027139824,Hourya Benis-Sinaceur,enseignant-chercheur,1940,????,féminin
+http://www.wikidata.org/entity/Q5913483,11210,027139824,Hourya Benis-Sinaceur,historien des mathématiques,1940,????,féminin
+http://www.wikidata.org/entity/Q5913483,11210,027139824,Hourya Benis-Sinaceur,mathématicien,1940,????,féminin
+http://www.wikidata.org/entity/Q5913483,11210,027139824,Hourya Benis-Sinaceur,philosophe,1940,????,féminin
+http://www.wikidata.org/entity/Q5913483,11210,027139824,Hourya Benis-Sinaceur,philosophe des sciences,1940,????,féminin
+http://www.wikidata.org/entity/Q5913483,11210,027139824,Hourya Benis-Sinaceur,professeur d'université,1940,????,féminin
+http://www.wikidata.org/entity/Q59209776,10532,026750457,Jean François Braunstein,philosophe,1953,????,masculin
+http://www.wikidata.org/entity/Q59209776,10532,026750457,Jean François Braunstein,professeur d'université,1953,????,masculin
+http://www.wikidata.org/entity/Q592781,49778,026900998,Pierre Paul Grassé,botaniste,1895,1985,masculin
+http://www.wikidata.org/entity/Q592781,49778,026900998,Pierre Paul Grassé,entomologiste,1895,1985,masculin
+http://www.wikidata.org/entity/Q592781,49778,026900998,Pierre Paul Grassé,professeur d'université,1895,1985,masculin
+http://www.wikidata.org/entity/Q592781,49778,026900998,Pierre Paul Grassé,zoologiste,1895,1985,masculin
+http://www.wikidata.org/entity/Q59679045,76607,no value,François Rostand,historien,1921,2003,masculin
+http://www.wikidata.org/entity/Q59679045,76607,no value,François Rostand,mathématicien,1921,2003,masculin
+http://www.wikidata.org/entity/Q59679045,76607,no value,François Rostand,philosophe des mathématiques,1921,2003,masculin
+http://www.wikidata.org/entity/Q60617954,54641,080282881,Paul Rusnock,philosophe,no value,????,masculin
+http://www.wikidata.org/entity/Q60617954,54641,080282881,Paul Rusnock,écrivain,no value,????,masculin
+http://www.wikidata.org/entity/Q60737012,386286,034444289,Patrice Bret,historien,1949,????,masculin
+http://www.wikidata.org/entity/Q6182805,272234,no value,Jerôme Lamy,universitaire,no value,????,masculin
+http://www.wikidata.org/entity/Q62392228,229476,056777019,Barbara Obrist,écrivain,1950,????,féminin
+http://www.wikidata.org/entity/Q62460216,387974,027200108,Denise Wrotnowska,conservateur,1905,2000,féminin
+http://www.wikidata.org/entity/Q6369369,77054,111203759,Karel Rychlík,mathématicien,1885,1968,masculin
+http://www.wikidata.org/entity/Q65976052,10565,no value,Marco Panza,no value,1958,????,masculin
+http://www.wikidata.org/entity/Q663862,62038,026978547,Georges Lefebvre,historien,1874,1959,masculin
+http://www.wikidata.org/entity/Q663862,62038,026978547,Georges Lefebvre,historien de la Révolution française,1874,1959,masculin
+http://www.wikidata.org/entity/Q663862,62038,026978547,Georges Lefebvre,professeur des universités,1874,1959,masculin
+http://www.wikidata.org/entity/Q6686835,79775,028777042,Louis C. Hunter,historien,1898,1984,masculin
+http://www.wikidata.org/entity/Q6686835,79775,028777042,Louis C. Hunter,économiste,1898,1984,masculin
+http://www.wikidata.org/entity/Q67330123,158274,075032678,Jean-Jacques Hémardinquer,historien,no value,????,masculin
+http://www.wikidata.org/entity/Q678163,166841,026898268,Henri Gouhier,critique littéraire,1898,1994,masculin
+http://www.wikidata.org/entity/Q678163,166841,026898268,Henri Gouhier,historien,1898,1994,masculin
+http://www.wikidata.org/entity/Q678163,166841,026898268,Henri Gouhier,historien de la philosophie,1898,1994,masculin
+http://www.wikidata.org/entity/Q678163,166841,026898268,Henri Gouhier,philosophe,1898,1994,masculin
+http://www.wikidata.org/entity/Q678163,166841,026898268,Henri Gouhier,professeur d'enseignement secondaire,1898,1994,masculin
+http://www.wikidata.org/entity/Q678163,166841,026898268,Henri Gouhier,professeur des universités,1898,1994,masculin
+http://www.wikidata.org/entity/Q6793035,8202,026845776,Maurice Durand,historien,1914,1966,masculin
+http://www.wikidata.org/entity/Q68091146,249881,034326723,Frédéric Obringer,no value,no value,????,masculin
+http://www.wikidata.org/entity/Q68424834,57311,no value,Michelle Sadoun Goupil,historien,no value,????,féminin
+http://www.wikidata.org/entity/Q68918750,77569,027189562,W. Voisé,historien des sciences,1920,1995,masculin
+http://www.wikidata.org/entity/Q68919621,387982,033030634,Albert Lejeune,historien des sciences,1916,1988,masculin
+http://www.wikidata.org/entity/Q71023,247899,026946122,A. Kastler,physicien,1902,1984,masculin
+http://www.wikidata.org/entity/Q71023,247899,026946122,A. Kastler,poète,1902,1984,masculin
+http://www.wikidata.org/entity/Q71023,247899,026946122,A. Kastler,professeur d'université,1902,1984,masculin
+http://www.wikidata.org/entity/Q7151967,57299,no value,Paul Lawrence Rose,historien,1944,2014,masculin
+http://www.wikidata.org/entity/Q7184905,10465,no value,Philippe Veron,astronome,1939,2014,masculin
+http://www.wikidata.org/entity/Q726217,76703,03280136X,E. J. Dijksterhuis,historien des sciences,1892,1965,masculin
+http://www.wikidata.org/entity/Q726217,76703,03280136X,E. J. Dijksterhuis,professeur d'université,1892,1965,masculin
+http://www.wikidata.org/entity/Q7496986,142773,074970399,F.S. Bodenheimer,biologiste,1897,1959,masculin
+http://www.wikidata.org/entity/Q7496986,142773,074970399,F.S. Bodenheimer,entomologiste,1897,1959,masculin
+http://www.wikidata.org/entity/Q7496986,142773,074970399,F.S. Bodenheimer,zoologiste,1897,1959,masculin
+http://www.wikidata.org/entity/Q7496986,142773,124175287,F.S. Bodenheimer,biologiste,1897,1959,masculin
+http://www.wikidata.org/entity/Q7496986,142773,124175287,F.S. Bodenheimer,entomologiste,1897,1959,masculin
+http://www.wikidata.org/entity/Q7496986,142773,124175287,F.S. Bodenheimer,zoologiste,1897,1959,masculin
+http://www.wikidata.org/entity/Q83331,57290,026754290,Louis De Broglie,historien,1892,1987,masculin
+http://www.wikidata.org/entity/Q83331,57290,026754290,Louis De Broglie,mathématicien,1892,1987,masculin
+http://www.wikidata.org/entity/Q83331,57290,026754290,Louis De Broglie,philosophe,1892,1987,masculin
+http://www.wikidata.org/entity/Q83331,57290,026754290,Louis De Broglie,physicien,1892,1987,masculin
+http://www.wikidata.org/entity/Q83331,57290,026754290,Louis De Broglie,physicien théoricien,1892,1987,masculin
+http://www.wikidata.org/entity/Q83331,57290,026754290,Louis De Broglie,professeur d'université,1892,1987,masculin
+http://www.wikidata.org/entity/Q83385263,67958,027025454,Georges Metailié,no value,1942,????,masculin
+http://www.wikidata.org/entity/Q83947156,266681,057744890,Antonella Romano,historien,1962,????,féminin
+http://www.wikidata.org/entity/Q83947156,266681,057744890,Antonella Romano,historien des sciences,1962,????,féminin
+http://www.wikidata.org/entity/Q901352,198025,031585086,Marcel Florkin,biochimiste,1900,1979,masculin
+http://www.wikidata.org/entity/Q901352,198025,031585086,Marcel Florkin,chimiste,1900,1979,masculin
+http://www.wikidata.org/entity/Q901352,198025,031585086,Marcel Florkin,professeur d'université,1900,1979,masculin
+http://www.wikidata.org/entity/Q9059577,29477,027092461,Pietro Redondi,historien,1950,????,masculin
+http://www.wikidata.org/entity/Q90610,57436,031756603,Detlef Laugwitz,historien des mathématiques,1932,2000,masculin
+http://www.wikidata.org/entity/Q90610,57436,031756603,Detlef Laugwitz,mathématicien,1932,2000,masculin
+http://www.wikidata.org/entity/Q90610,57436,031756603,Detlef Laugwitz,professeur d'université,1932,2000,masculin
+http://www.wikidata.org/entity/Q918438,57367,026934310,Stanley L. Jaki,philosophe,1924,2009,masculin
+http://www.wikidata.org/entity/Q918438,57367,026934310,Stanley L. Jaki,physicien,1924,2009,masculin
+http://www.wikidata.org/entity/Q918438,57367,026934310,Stanley L. Jaki,professeur d'université,1924,2009,masculin
+http://www.wikidata.org/entity/Q918438,57367,026934310,Stanley L. Jaki,prêtre catholique,1924,2009,masculin
+http://www.wikidata.org/entity/Q918438,57367,026934310,Stanley L. Jaki,théologien,1924,2009,masculin
+http://www.wikidata.org/entity/Q918438,57367,026934310,Stanley L. Jaki,écrivain,1924,2009,masculin
+http://www.wikidata.org/entity/Q93221005,244231,031819583,Cristina Viano,philosophe,1959,????,féminin
+http://www.wikidata.org/entity/Q93222397,11197,09804477X,Sabine Rommevaux,no value,1964,????,féminin
+http://www.wikidata.org/entity/Q93222544,11219,no value,Guido Giglioni,no value,1964,????,masculin
+http://www.wikidata.org/entity/Q93223891,10539,no value,Maurice Clavelin,no value,1927,????,masculin
+http://www.wikidata.org/entity/Q93226227,57438,no value,Egidio Festa,no value,1930,????,masculin
+http://www.wikidata.org/entity/Q93231218,215048,no value,Jean Seidengart,no value,1949,????,masculin
+http://www.wikidata.org/entity/Q93232849,54827,no value,Michel Pierre Lerner,no value,1943,????,masculin
+http://www.wikidata.org/entity/Q93234471,57376,no value,Bernardino Fantini,no value,1947,????,masculin
+http://www.wikidata.org/entity/Q93239446,216984,no value,Edouard Mehl,no value,1970,????,masculin
+http://www.wikidata.org/entity/Q93239927,202734,no value,Jean-Luc Solere,no value,1960,????,masculin
+http://www.wikidata.org/entity/Q93241831,54445,029245966,Michel Morange,no value,1950,????,masculin
+http://www.wikidata.org/entity/Q93241998,248241,no value,Jean-Yves Guillaumin,traducteur,1951,????,masculin
+http://www.wikidata.org/entity/Q93244336,10547,no value,Emmanuela Scribano,no value,1948,????,féminin
+http://www.wikidata.org/entity/Q93380578,10554,no value,Santiago Aragon,no value,1965,????,masculin
+http://www.wikidata.org/entity/Q938645,242159,026903784,Mirko Drazen Grmek,historien de la médecine,1924,2000,masculin
+http://www.wikidata.org/entity/Q938645,242159,026903784,Mirko Drazen Grmek,psychiatre,1924,2000,masculin
+http://www.wikidata.org/entity/Q938645,242159,026903784,Mirko Drazen Grmek,universitaire,1924,2000,masculin
+http://www.wikidata.org/entity/Q94111888,157466,no value,Georges Roque,no value,1951,????,masculin
+http://www.wikidata.org/entity/Q941762,57329,028359534,Marian Biskup,historien,1922,2012,masculin
+http://www.wikidata.org/entity/Q941762,57329,028359534,Marian Biskup,historien de l'Europe de l'Est,1922,2012,masculin
+http://www.wikidata.org/entity/Q941762,57329,028359534,Marian Biskup,médiéviste,1922,2012,masculin
+http://www.wikidata.org/entity/Q941762,57329,028359534,Marian Biskup,professeur d'université,1922,2012,masculin
+http://www.wikidata.org/entity/Q946091,275336,027104664,Daniel Roche,historien,1935,????,masculin
+http://www.wikidata.org/entity/Q950146,57434,031613713,Clifford A. Truesdell,historien des mathématiques,1919,2000,masculin
+http://www.wikidata.org/entity/Q950146,57434,031613713,Clifford A. Truesdell,mathématicien,1919,2000,masculin
+http://www.wikidata.org/entity/Q950146,57434,031613713,Clifford A. Truesdell,physicien,1919,2000,masculin
+http://www.wikidata.org/entity/Q950146,57434,031613713,Clifford A. Truesdell,professeur d'université,1919,2000,masculin
+http://www.wikidata.org/entity/Q95222829,232285,no value,Philippe Despoix,naturaliste,1957,????,masculin
+http://www.wikidata.org/entity/Q95222829,232285,no value,Philippe Despoix,spécialiste de la littérature,1957,????,masculin
+http://www.wikidata.org/entity/Q95225800,10551,no value,Frederic De Buzon,philosophe,1949,????,masculin
+http://www.wikidata.org/entity/Q95235340,82486,028310535,Alexandre Herlea,no value,1942,????,masculin
+http://www.wikidata.org/entity/Q95330542,57440,no value,Gerhard Heinrich Müller,no value,1947,????,masculin
+http://www.wikidata.org/entity/Q95387047,51063,030375045,Annie Petit,no value,1945,????,féminin
+http://www.wikidata.org/entity/Q97982684,234113,028829891,Jean-Marc Drouin,historien des sciences,1948,2020,masculin
+http://www.wikidata.org/entity/Q97982684,234113,028829891,Jean-Marc Drouin,philosophe,1948,2020,masculin
+http://www.wikidata.org/entity/Q982509,62994,026957272,Georges Labica,philosophe,1930,2009,masculin
+http://www.wikidata.org/entity/Q982509,62994,026957272,Georges Labica,professeur d'université,1930,2009,masculin
+http://www.wikidata.org/entity/Q98768350,34712,030797640,Germana Ernst,no value,1943,2016,féminin
+http://www.wikidata.org/entity/Q98915494,238262,027044327,Emile Namer,no value,1888,1979,masculin
+http://www.wikidata.org/entity/Q98915494,238262,027044327,Emile Namer,no value,1899,1979,masculin
+http://www.wikidata.org/entity/Q99197099,57312,035023910,Th. Cahn,physico-chimiste,1896,1986,masculin
+http://www.wikidata.org/entity/Q99371720,177305,no value,Marc Kalinowski,professeur,1946,????,masculin

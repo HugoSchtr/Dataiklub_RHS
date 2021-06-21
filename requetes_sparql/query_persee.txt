@@ -1,0 +1,23 @@
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX marcrel: <http://id.loc.gov/vocabulary/relators/>
+PREFIX rdam: <http://rdaregistry.info/Elements/m/>
+PREFIX rdau: <http://rdaregistry.info/Elements/u/>
+
+SELECT DISTINCT ?numeros ?articles ?auteur ?auteurlabel ?titre ?id ?datepubnum ?print ?datepubimp ?pubnum ?pubimp
+
+WHERE {
+?numero dcterms:isPartOf <http://data.persee.fr/collection/rhs_0151-4105#Web>.
+?articles dcterms:isPartOf ?numeros.
+?articles marcrel:aut ?auteur.
+?auteur rdfs:label ?auteurlabel.
+?articles dcterms:title ?titre.
+?articles dcterms:identifier ?id.
+OPTIONAL {?articles rdam:dateOfPublication ?datepubnum.}
+OPTIONAL {?articles rdau:electronicReproductionOf ?print.}
+?print rdam:dateOfPublication ?datepubimp.
+?articles dcterms:publisher ?pubnum.
+?print dcterms:publisher ?pubimp.
+}
+
+order by ?auteur
