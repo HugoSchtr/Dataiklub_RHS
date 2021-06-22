@@ -4,4 +4,4 @@
 
 {NomRevue}\_{type}\_{objet d'analyse}\_{jeux de données concernés}
 
-Par exemple, pour **RHS__authors_occupation_analysis_persee_wikidata** : jeu de données concernant la RHS, portant sur les auteurs, pour l'analyse des occupations, avec le croisement des données de Persée et de Wikidata.
+Par exemple, pour **RHS_authors_occupation_analysis_persee_wikidata** : jeu de données concernant la RHS, portant sur les auteurs, pour l'analyse des occupations, avec le croisement des données de Persée et de Wikidata.
